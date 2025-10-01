@@ -16,15 +16,15 @@ O objetivo é demonstrar conceitos de **Orientação a Objetos, Relacionamento e
 
 2. **Gestão de Produtos**
 
-   * Cadastro de produtos (nome e preço).
+   * Cadastro de produtos (com nome e preço).
    * Associação de cada produto a um fornecedor.
-   * Listagem dos produtos em tabela dinâmica com AJAX.
+   * Listagem dos produtos em tabela dinâmica, com AJAX.
    * **Remoção de produtos** cadastrados.
 
 3. **Gestão de Fornecedores**
 
    * Cadastro e listagem de fornecedores.
-   * Relacionamento com produtos.
+   * Relacionamento com os produtos.
 
 4. **Cesta (Carrinho de Compras)**
 
@@ -32,18 +32,18 @@ O objetivo é demonstrar conceitos de **Orientação a Objetos, Relacionamento e
    * Adicionar os produtos à cesta (1 unidade por produto).
    * Visualizar a cesta, com:
 
-     * Produtos selecionados.
-     * Quantidade de itens.
-     * Valor total da compra.
+     * Os produtos selecionados.
+     * A quantidade de itens.
+     * O valor total da compra.
 
 5. **Interface**
 
    * Menus de navegação para acessar:
 
-     * Usuários
-     * Produtos
-     * Fornecedores
-     * Cesta
+     * Usuários;
+     * Produtos;
+     * Fornecedores;
+     * Cesta;
    * Interface responsiva com **Bootstrap 5**.
 
 ---
